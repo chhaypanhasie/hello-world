@@ -1,5 +1,6 @@
 # hello-world
 Learning GitHub
 
-Hi my Future Self:
-  This is you first learning through GitHub Guide :)
+This is you first learning through GitHub Guide :)
+
+Trying again without Tutorial lol.
